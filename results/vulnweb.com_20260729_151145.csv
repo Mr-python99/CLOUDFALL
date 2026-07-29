@@ -1,0 +1,2 @@
+Subdomain,Real IP,Resolvers,Status
+www.vulnweb.com,44.228.249.3,"8.8.8.8, 1.1.1.1, 208.67.222.222, 9.9.9.9",REAL IP
